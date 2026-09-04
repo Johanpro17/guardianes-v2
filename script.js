@@ -5,12 +5,9 @@
    ======================================================================= */
 
 const GALLERY = [
-  { src: "assets/imagenes/Piedra Antigua 1.jpeg", caption: "Herramienta lítica pulida — posible hacha o 'porra' de mano" },
-  { src: "assets/imagenes/Piedra Antigua 2.jpeg", caption: "Herramienta con muesca central — mano de moler o percutor" },
-  { src: "assets/imagenes/Vasija 1.jpeg", caption: "Vasija modelada a mano: cuerpo globular y borde acampanado" },
-  { src: "assets/imagenes/Vasija 2.jpeg", caption: "Cerámica utilitaria prehispánica de la sierra" },
-  { src: "assets/imagenes/Fosil 1.jpeg", caption: "Cráneo catalogado — contexto funerario del sitio" },
-  { src: "assets/imagenes/Fosil 2.jpeg", caption: "Cráneo con rotulado de inventario — pieza de estudio" },
+  { src: "assets/imagenes/Piedra Antigua 1.jpeg", caption: `La piedra grande (con forma de "hacha" o cuña) y la piedra más pequeña con muesca: son herramientas líticas pulidas, típicas de sociedades prehispánicas andinas. La grande, con su filo curvo, encaja con un hacha o "porra" de mano; la pequeña, con esa hendidura central, parece un fragmento de mano de moler o percutor. Se trabajaban por pulido de piedras de río, sin metal.` },
+  { src: "assets/imagenes/Vasija 1.jpeg", caption: `La vasija de cerámica: es una pieza modelada a mano (no a torno, como todas las cerámicas prehispánicas americanas), de cuerpo globular y borde evertido "acampanado". Ese perfil —cuello corto que se abre hacia afuera— es común en cerámica utilitaria de la sierra centro-norte del Perú, de periodos intermedios prehispánicos.` },
+  { src: "assets/imagenes/Fosil 1.jpeg", caption: `La pieza que llamas "fósil": en realidad es un cráneo humano, no un fósil. Tiene marcas de rotulado en azul, lo que sugiere que ya está catalogado como pieza de estudio (osteológica o arqueológica) en algún inventario, probablemente asociado a un contexto funerario del mismo sitio.` },
   { src: "assets/imagenes/Institucion.jpeg",   caption: "Nuestra institución educativa promotora" },
   { src: "assets/imagenes/Logo del Colegio que promociona ello.jpeg", caption: "Logotipo del colegio" },
   { src: "assets/imagenes/Lugar de museo ecologico 1.jpeg", caption: "Cconocc y su paisaje ancestral" },
