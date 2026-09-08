@@ -20,6 +20,7 @@ const VIDEOS = [
   { src: "assets/videos/Video 2.mp4", title: "Muros ancestrales: viento y piedra" },
   { src: "assets/videos/Video 3.mp4", title: "Montañas majestuosas y atardeceres dorados" },
   { src: "assets/videos/Video 4.mp4", title: "La campana de oro y la leyenda" },
+  { src: "assets/videos/video 5.mp4", title: "La Ciudad Perdida te espera" },
 ];
 
 const TRAIL = [
